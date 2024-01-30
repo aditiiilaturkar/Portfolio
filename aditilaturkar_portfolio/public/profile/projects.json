@@ -1,0 +1,111 @@
+{
+    "projects" : [
+        { 
+            "image" : "images/projects/codesurgeon.png",
+            "title": "CodeSurgeon: Developed with Support from Navy SBIR/STTR Grant",
+            "bodyText": "- Developing a program debloater with the primary objective of reducing superfluous features to improve performance and resource efficiency\n - Utilization of processor tracing techniques using cpu emulators.\n - Traced NGINX and PX4 source code",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/aditiiilaturkar/CodeSurgeon"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "C++",
+                "CPU emulation",
+                "Program Tracing",
+                "Intel PT",
+                "Perf"
+            ]
+        },
+        {
+            "image" : "images/projects/911_analysis.png",
+            "title": "911-Interactions-Analysis",
+            "bodyText": "- The 911 emergency system faces a significant risk of mishaps due to understaffing and the limitations of human dispatchers when handling emergency calls.\n- This project addresses the critical challenge of optimizing emergency response by employing Natural Language Processing and Machine Learning techniques.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/aditiiilaturkar/911-Interactions-Analysis"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "NLP",
+                "Machine Learning"
+            ]
+        },
+        {
+            "image" : "images/projects/tech_support.jpeg",
+            "title": "Tech Support System",
+            "bodyText": "- The Internal Technical Support Dashboard is a web-based platform designed to streamline the process of reporting technical issues related to enterprise software within the organization.\n - It serves as a central hub for employees to report issues and for the IT support team to manage, prioritize, and resolve these issues efficiently.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/aditiiilaturkar/Tech_Support_System"
+                }
+            ],
+            "tags" : [
+                "Golang",
+                "Azure",
+                "PostgreSQL",
+                "React",
+                "TypeScript",
+                "TailwindCSS"
+            ]
+        },
+        {
+            "image" : "images/projects/attendance.jpeg",
+            "title": "Attendance Application",
+            "bodyText": "- A powerful web-based system designed to streamline attendance management.\n - Efficient Attendance Tracking. \n - Intuitive Report Generation\n - Incorporates Role Based Access Control (RBAC) for efficient user management.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/aditiiilaturkar/Attendance-app"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Django",
+                "SQL"
+            ]
+        },
+        {
+            "image" : "images/projects/oil_pipeline.webp",
+            "title": "Oil Pipeline accidents Data Visualization",
+            "bodyText": "- This project focuses on the development of an interactive data visualization platform dedicated to oil pipeline accidents and their aftereffects.\n - The platform aims to empower stakeholders with actionable insights for evidence-based decision-making, ultimately contributing to the enhancement of pipeline safety.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/aditiiilaturkar/Oil_pipeline_accidents_DV"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Data Visualization",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Data Mining"
+            ]
+        },
+        {
+            "image" : "images/projects/text_summarization.png",
+            "title": "Abstractive Text Summarization",
+            "bodyText": "- This project aims to deliver concise summaries of provided text through the utilization of NLP-based Deep Learning Models.\n - The project holds potential utility in constructing summary engines or websites, offering users the ability to obtain summaries for various types of text.\n  -  Flask, a Python micro web framework, facilitates data transfer from the webpage to the Python script for processing. ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/aditiiilaturkar/Abstractive_Text_Summarization"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Flask",
+                "Abstractive text summarization",
+                "Attention-based Seq2Seq LSTM/GRU",
+                "Transformer Model"
+            ]
+        }
+   ]
+}

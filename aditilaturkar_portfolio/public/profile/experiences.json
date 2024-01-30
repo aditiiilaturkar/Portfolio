@@ -1,0 +1,45 @@
+{
+    "experiences": [
+        {
+            "title": "Graduate Research Associate",
+            "subtitle": "The Ohio State University",
+            "workType": "Research & Development",
+            "workDescription": [
+                "Developing a program debloater for the department of the Navy SBIR/STTR with the primary objective of reducing superfluous features with exception handling to improve performance and resource efficiency through the utilization of processor tracing techniques using cpu emulators.",
+                "Implemented and executed program tracing using perf with Intel PT to obtain traces for program debloating purposes. Validated the efficiency of this tracing method on the NGINX and PX4 source code, particularly concentrating on caching and non-caching server functionalities."
+            ],
+            "dateText": "08/2023 – Present"
+        },
+        {
+            "title": "Software Engineer Intern",
+            "subtitle": "Oculii Corp",
+            "workType": "Backend Development",
+            "workDescription": [
+                "Improved operational efficiency by automating the radar system build creation process using python, replacing a cumbersome 7-step manual method with optimized configurations, resulting in a 76% reduction in build creation time.",
+                "Performed project version control through the integration of agile Git submodule, resulting in improved collaboration and code management. Elevated development practices by introducing pre-commit hooks within the repository leading to consistent coding patterns."
+            ],
+            "dateText": "05/2023 – 08/2023"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "MakeMyTrip",
+            "workType": "Fullstack Development",
+            "workDescription": [
+                "Developed multi property level calendar module with complete user interface ownership on MakeMyTrip application with 7 million monthly active users on Android, iOS B2C platforms.",
+                "Constructed a custom calendar library to remove React-Native-Calendars reducing app bundle size by 120kb, resulted in user retainment.",
+                "Achieved recognition as the Ace Performer of the Quarter for the successful revamp of the Mobile Application Dashboard, integrating chain of hotel management and significantly boosting application traffic."
+            ],
+            "dateText": "07/2020 – 07/2022"
+        },
+        {
+            "title": "Software Engineer Intern",
+            "subtitle": "Goibibo",
+            "workType": "Mobile App Development",
+            "workDescription": [
+                "Implemented internationalization for GO-MMT web app, and released to production for 3 languages, streamlining onboarding of native hoteliers, and expanding user base by eliminating language barriers.",
+                "Transformed user experience and engagement by seamlessly integrating WhatsApp with the GO-MMT web platform, empowering users to effortlessly receive real-time property updates and booking insights via WhatsApp messaging."
+            ],
+            "dateText": "03/2020 – 07/2020"
+        }
+    ]
+}

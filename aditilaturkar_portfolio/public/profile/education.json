@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Aug 2022 - May 2024",
+            "cardTitle": "MS - Computer Science and Engineering",
+            "cardSubtitle":"The Ohio State University",
+            "cardDetailedText": "CGPA - 3.83 out of 4",
+            "icon" : {
+                "src": "images/education/osu.png"
+            }
+        },
+        {
+            "title": "June 2016 - June 2020",
+            "cardTitle": "BEng - Information Technology",
+            "cardSubtitle":"Pune Institute of Computer Technology",
+            "cardDetailedText": "CGPA: 3.62 out of 4",
+            "icon" : {
+                "src": "images/education/pict.jpeg"
+            }
+        }
+    ]
+}

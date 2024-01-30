@@ -1,0 +1,25 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/aditilaturkar/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/aditiiilaturkar"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:aditi.laturkar@gmail.com"
+        },
+        {
+            "network" : "instagram",
+            "href": "https://www.instagram.com/aditiiiii107/"
+        },
+        {
+            "network" : "medium.com",
+            "href": "https://aditil-aturkar.medium.com/"
+        }
+
+    ]
+}
