@@ -1,14 +1,25 @@
 {
     "experiences": [
         {
-            "title": "Graduate Research Associate",
+            "title": "Software Engineer",
+            "subtitle": "impact.com",
+            "workType": "Fullstack Development",
+            "workDescription": [
+                "Developed and optimized full-stack features for a SaaS-based partnership automation platform, improving user experience, with CI/CD pipelines for streamlined deployment.",
+                "Monitored and diagnosed memory inefficiencies, designing a chunk-based system to reduce RAM usage. Implemented data compression, reducing file size by 32%, and authored documentation for future maintenance.",
+                "Unified database management and query processing practices across cross-functional teams, visualizing image dimension data for dynamic graphs and enhancing reporting capabilities."
+            ],
+            "dateText": "06/2024 – present"
+        },
+        {
+            "title": "System Software Engineer, Grad Researcher",
             "subtitle": "The Ohio State University",
             "workType": "Research & Development",
             "workDescription": [
-                "Developing a program debloater for the department of the Navy SBIR/STTR with the primary objective of reducing superfluous features with exception handling to improve performance and resource efficiency through the utilization of processor tracing techniques using cpu emulators.",
-                "Implemented and executed program tracing using perf with Intel PT to obtain traces for program debloating purposes. Validated the efficiency of this tracing method on the NGINX and PX4 source code, particularly concentrating on caching and non-caching server functionalities."
+                "Designed a novel algorithm for dynamic process tracing using Intel Processor Trace (Intel PT) integrated with perf, specifically tailored for applications NGINX and PX4 autopilot for proxy and non-proxy servers, in collaboration with U.S. Navy SBIR/STTR.",
+                "Employed advanced processor tracing techniques, including CPU emulators, to collect detailed traces from C and C++ codebases. This streamlined the debloating framework and significantly enhancing overall software efficiency and effectiveness."
             ],
-            "dateText": "08/2023 – Present"
+            "dateText": "08/2023 – 05/2024"
         },
         {
             "title": "Software Engineer Intern",
